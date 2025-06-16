@@ -24,7 +24,9 @@ Este proyecto es una **calculadora de edad** desarrollada con **HTML**, **CSS** 
 
 ## Vista previa
 
-![Vista previa de la calculadora de edad](https://via.placeholder.com/600x300?text=Calculadora+de+Edad)
+<p align="center">
+  <img width="300" src="https://i.postimg.cc/VsSgsj1x/Captura-de-pantalla-2025-06-16-003722.png" alt="Logo del autor">
+</p>
 
 ## Créditos
 
